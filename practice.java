@@ -15,6 +15,7 @@ public class practice {
         if (xo == xR) {
             return true;
         }
+        
         return false;
     }
 }
