@@ -12,6 +12,7 @@ public class PalindromeNo {
             }
 
         if (xO == xN) return true;
+        
         return false; 
     }
 }
