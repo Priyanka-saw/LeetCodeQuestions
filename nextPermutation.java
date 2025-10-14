@@ -22,7 +22,7 @@ public class nextPermutation{
     }
     static void swap(int[] nums, int i, int j){
         int temp = nums[i];
-        nums[i] = nums[j];
+        nums[i] = nums[j]; 
         nums[j] = temp;
     }
     static void reverse(int[] nums, int start){
